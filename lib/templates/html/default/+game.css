@@ -518,3 +518,7 @@ img {
     vertical-align: top;
   }
 }
+
+.gray-mode span {
+  color: inherit !important;
+}
